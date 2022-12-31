@@ -1,0 +1,5 @@
+let token = [
+  "2Jciyy2psn8XDF9o7x4mneGTOV3_8tJMsxLgDgLqULRQxxE5",
+];
+
+module.exports = token;
